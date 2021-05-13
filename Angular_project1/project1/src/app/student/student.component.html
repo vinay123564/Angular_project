@@ -1,0 +1,16 @@
+
+ 
+<app-nav-bar></app-nav-bar>
+<h1>These is student page content</h1>
+
+<ol>
+    <li *ngFor="let s of categoriesArr"> {{s.name}}</li>
+</ol>
+
+{{title}}
+<input type="text" [(ngModel)]="title">
+<br/>
+<br/>
+{{name}}
+
+<input type="text" [(ngModel)]="name">
