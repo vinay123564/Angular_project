@@ -1,0 +1,50 @@
+#pricing{
+    padding:50px 0px;
+    background: #2b2b2b;
+    color:white;
+}
+    #pricing h2{
+    font-weight: bold;
+    }
+    #pricing p{
+ 
+    font-size: 17px;
+    padding: 25px;
+    margin: 0px;
+    }
+    #pricing h4{
+    padding:11px 0px;
+    margin:0px;
+    }
+    #pricing h5{
+    padding:10px 0px;
+    margin:0px;
+    }
+    #pricing button{
+        margin:30px;
+        border:0.02px solid white;
+        background-color: #2b2b2b;
+        color:white;
+        padding: 11px 44px;
+    }
+    #pricing .card-5{
+        text-align: center;
+        background: #2b2b2b;
+        color:white;
+        border-radius:7px;
+    }
+    #pricing span{
+        font-size:45px;
+    }
+    #pricing .color{
+        background-color: #e03a3c;
+        border:1px solid #e03a3c
+    }
+    #pricing #color{
+        background-color:#e03a3c;
+        color:white;
+    }
+    #pricing h3{
+        margin:0px;
+        padding:25px;
+    }

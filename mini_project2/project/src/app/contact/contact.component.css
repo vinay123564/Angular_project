@@ -1,0 +1,74 @@
+#contact{
+    padding:50px 0px;
+}
+#contact p{
+    font-size: 17px;
+    margin: 0px;
+    padding: 18px 0px;
+}
+#contact h1{
+    font-weight: 700;
+}
+#contact button{
+    border: none;
+    padding: 11px 52px;
+    background-color: #e03a3c;
+    margin: 17px 154px;
+}
+#contact .box-1{
+    box-shadow:
+    0 0 30px rgb(214 215 216 / 60%);
+  
+}
+#contact .red{
+     
+    font-size: 36px;
+    color: #e03a3c;
+ 
+    border: 1px dotted;
+    padding: 5px 18px;
+    
+    position: relative;
+ 
+    top: 25px;
+    left: 247px;
+}
+#contact .address{
+    font-size: 18px;  
+ margin: 0px; 
+ padding: 56px 0px 13px 0px;
+}
+#contact h5{
+    padding-bottom:25px;
+}
+
+#contact .color{
+    font-size: 36px;
+    color: #e03a3c;
+    border: 1px dotted;
+    padding: 5px 18px;
+    margin-top:25px;
+}
+#contact .box-2{
+    box-shadow:
+    0 0 30px rgb(214 215 216 / 60%);
+    margin:20px 0px;
+    padding:35px 0px 25px 0px;
+}
+#contact #shadow{
+    box-shadow:
+    0 0 30px rgb(214 215 216 / 60%);
+}
+.panel-default {
+     border: none;
+}
+.panel-default>.panel-heading {
+    padding: 20px 0px;
+     background:none; 
+    
+}
+.panel {
+
+   
+    box-shadow: 0 1px 1px rgb(0 0 0 / 8%);
+}

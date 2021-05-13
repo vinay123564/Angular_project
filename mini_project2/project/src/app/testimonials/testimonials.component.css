@@ -1,0 +1,56 @@
+#testimonials{
+    padding:50px 0px;
+    background-color: blac;
+    }
+    #testimonials p{
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    }
+    #testimonials p span{
+    text-align:center;
+    }
+
+
+
+
+    #testimonials img{
+    border-radius: 5px;
+    height:80px;
+    }
+    #testimonials .card-2 .text{
+    font-size:20px;
+    font-weight: bold;
+    padding-left:20px ;
+    }
+    #testimonials .card-2{
+   box-shadow: 0px 2px 12px rgb(0 0 0 / 8%);
+   padding: 25px;
+   margin: 38px;
+   border-radius:20px;
+    }
+    #testimonials .card-2 p{
+    font-style:italic;
+    margin:0px;
+    }
+    #testimonials h2{
+    font-weight: bold;
+    }
+
+    .carousel-indicators li {
+        background-color:#ddd;
+         /* border:1px solid ed; */
+      
+    }
+    .carousel-indicators .active {
+      
+        background-color:red;
+    }
+
+    .carousel-indicators {
+       
+        margin-bottom: -32px;
+    }

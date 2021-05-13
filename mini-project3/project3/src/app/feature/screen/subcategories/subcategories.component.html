@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-2">
+
+
+
+
+
+            <div class="card primary" style="width: 40rem;">
+                <ol class="list-group list-group-flush">
+                    <li class="alert alert-primary">TRAVELS | HOTELS - SUBCATEGORIES
+                    </li>
+                    <li class="list-group-item" *ngFor="let s of subcategorylist"
+                        [routerLink]="['/business-listing',s.id]">{{s.name}}</li>
+
+                </ol>
+
+            </div> 
+
+
+
+        </div>
+    </div>
+
+</div>

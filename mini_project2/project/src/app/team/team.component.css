@@ -1,0 +1,31 @@
+#Team{
+    padding:100px 0px;
+    background-color:#1b1b1b;
+    color:white;
+}
+#Team h1{
+    font-weight: bold;
+}
+#Team p{
+    margin: 0 0 10px;
+    font-size: 17px;
+    padding: 25px 0px;
+    margin: 0px;
+    font-weight: 500;
+}
+#Team h4{
+    padding:20px 0px 0px 15px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #111111;
+}
+#Team h6{
+    padding:0px 0px 20px 15px;
+    color:#aaaaaa;
+    font-weight: 400;
+    font-size:13px;
+}
+#Team .box{
+    border-radius: 7px;
+    background-color:white;
+}

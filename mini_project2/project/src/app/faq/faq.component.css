@@ -1,0 +1,28 @@
+#faq{
+    padding:50px 0px;
+    
+}
+#faq h1{
+    font-weight: bold;
+    padding-bottom:50px;
+}
+#faq a{
+    font-weight:100;
+    font-size:19px;
+text-decoration: none;
+color: #343a40;
+
+}
+#faq a:hover{
+color:#e03a3c;
+}
+#faq .size{
+font-size:15px;
+}
+#faq .fnt5{
+   font-size:17px;
+}
+#faq .fnt{
+    font-size:20px;
+
+}

@@ -1,0 +1,514 @@
+
+ .navbar-default .navbar-brand {
+    color: black;
+    font-size:30px;
+    font-weight: 600;
+    padding-top:20px;
+
+}
+.nav>li>a{
+    padding:18px 22px;
+    color:black;
+}
+.navbar-default .navbar-nav > .active > a{
+    color:black;
+    font-weight: 600;
+}
+.navbar-default .navbar-nav>li>a{
+    color:black;
+    font-weight:600;
+}
+#nav-bar button{
+    color:white;
+    background-color:#e03a3c;
+    margin-top: 14px;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 550;
+    border:2px solid#e03a3c;
+   
+ 
+}
+.navbar {
+    margin-bottom: 0px;
+}
+:focus {
+    outline: -webkit-focus-ring-color ;
+} 
+
+ #banner{
+   background-image: url(../images/hero-bg.jpg);
+   background-size:cover;
+   min-height:560px;
+    
+}
+
+.bg-grey{
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height:560px;
+}
+#banner h1{
+    color:white;
+    font-size: 52px;
+    font-weight: 600;
+    padding-top:80px;
+}
+#banner h2{
+    color:white;
+    font-size:25px;
+}
+#banner button{
+    
+    color:white;
+    background-color:#e03a3c;
+    margin-top: 14px;
+    height:50px;
+    width:160px;
+   border-radius:5px;
+    font-weight: 550;
+     border:2px solid #ed3a3c;
+} 
+#banner1{
+    padding-top:50px;
+    padding-bottom:110px;
+   
+}
+button a{
+    color:white;
+    text-decoration: none;
+
+    
+}
+button a:hover {
+    text-decoration: none;
+    color:white;
+}
+#banner1 img{
+    height:90px;
+    width:120px;
+    padding:18px;
+    margin-right:66px;
+}
+ol, ul {
+    margin-top: 0;
+    margin-bottom: -28px;
+}
+.carousel-indicators li {
+    background-color:#ddd;
+     /* border:1px solid ed; */
+  
+}
+.carousel-indicators .active {
+  
+    background-color:red;
+}
+#about{
+    padding-top:50px;
+    padding-bottom:20px;
+        background: #1b1b1b;
+         /* transform: skewY(-3deg);  */
+          border:1px soli red;
+    }
+#about h1{
+    color:white;
+        font-size: 34px;
+        font-weight: 500;
+        margin:0px;
+    }
+    #about .description{
+        color:white;
+        margin: 0px;
+        padding-top: 19px;
+        padding-bottom: 31px;
+    }
+#about button{
+    font-size: 12px;
+    border-radius: 81px;
+    /* background-color: #1b1b1b; */
+    color: white;
+    height: 38px;
+    width: 163px;
+    font-weight: 800;
+    background: none;
+    border: 2px solid #e03a3c;
+}
+
+
+
+#about .title h2{
+    color: white;
+    /* margin-top: 0px; */
+    font-size: 23px;
+    font-weight: 500;
+    margin-left: 42px;
+}
+#about .title p{
+color:#848484;
+font-size: 15px;
+margin-left: 42px;
+font-weight: 400;
+}
+#about .title{
+    margin-bottom:46px;
+}
+
+#about span.fnt{
+    font-size: 35px;
+    margin-left: 48px;
+    color:#e03a3c;
+}
+span.fnt1{
+   
+    padding: 14px;
+    border-radius: 30px;
+    font-size: 24px;
+    position: relative;
+    color:#e03a3c;
+    top: -44px;
+    box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
+}
+
+
+#number{
+    padding-top:150px;
+    padding-bottom:50px;
+   
+}
+#number .card {
+    background-color: #f4f5f4c2;
+   color:black;
+    text-align: center;
+     margin-bottom: 0px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#number .card h1{
+    font-weight:700;
+}
+
+
+    
+
+#card-1{
+    margin-top:50px;
+    margin-bottom:px;
+    
+}
+/* #number #icon{
+    font-size:45px;  
+    padding-right: 25px;
+} */
+#card-1 span{
+    padding-right: 25px;
+    font-size:45px; 
+}
+#card-1 button{
+    padding: 28px 15px;
+    border:2px solid #e03a3c;
+}
+#card-1 button h4{
+    font-size: 21px;
+    text-align: initial;
+    margin:0px;
+}
+#card-1 #icon:hover{
+     color:white;
+
+}
+#red{
+    background-color:#e03a3c;
+}
+#title1{
+    padding:30px 0px;
+    border:1px soli red;
+}
+#title1 .row-3 h3{
+    font-size:26px;
+}
+#title1 .row-3 p {
+    font-size:16px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    }
+#title1 .description{
+    font-style: italic;
+    padding:10px 0px;
+}
+#title1 .description1{
+    padding:5px 0px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+#services{
+    padding:12px 0px;
+     border:1px soli red;
+     background: #1b1b1b;
+     color:white;
+}
+#services h2{
+    text-align:center;
+    font-weight: 600;
+}
+#services .description{
+    padding:35px 0px;
+    text-align:ceter;
+    font-size: 17px;
+    font-weight: 600;
+    border:1p
+}
+#services h4{
+    margin:0px;
+}
+    #services .card{
+     padding:30px 80px;
+    /* border:1px solid; */
+     background: #252525;
+     margin-bottom:15px;
+    }
+    #services .card h4{
+    font-weight:600;
+    padding-bottom:13px;
+    }
+    #services span{
+        position: relative;
+        top: -5px;
+        font-size: 38px;
+        right: 36px;
+        color: #e03a3c;
+    }
+    #services .card p{
+     margin:0px;
+     margin-left: 38px;
+    }
+    #services a{
+    color:white;
+    }
+    #testimonials{
+    padding:50px 0px;
+    background-color: blac;
+    }
+    #testimonials p{
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    }
+    #testimonials p span{
+    text-align:center;
+    }
+
+
+
+
+    #testimonials img{
+    border-radius: 5px;
+    height:80px;
+    }
+    #testimonials .card-2 .text{
+    font-size:20px;
+    font-weight: bold;
+    padding-left:20px ;
+    }
+    #testimonials .card-2{
+   box-shadow: 0px 2px 12px rgb(0 0 0 / 8%);
+   padding: 25px;
+   margin: 38px;
+   border-radius:20px;
+    }
+    #testimonials .card-2 p{
+    font-style:italic;
+    margin:0px;
+    }
+    #testimonials h2{
+    font-weight: bold;
+    }
+#pricing{
+    padding:50px 0px;
+    background: #2b2b2b;
+    color:white;
+}
+    #pricing h2{
+    font-weight: bold;
+    }
+    #pricing p{
+ 
+    font-size: 17px;
+    padding: 25px;
+    margin: 0px;
+    }
+    #pricing h4{
+    padding:11px 0px;
+    margin:0px;
+    }
+    #pricing h5{
+    padding:10px 0px;
+    margin:0px;
+    }
+    #pricing button{
+        margin:30px;
+        border:0.02px solid white;
+        background-color: #2b2b2b;
+        color:white;
+        padding: 11px 44px;
+    }
+    #pricing .card-5{
+        text-align: center;
+        background: #2b2b2b;
+        color:white;
+        border-radius:7px;
+    }
+    #pricing span{
+        font-size:45px;
+    }
+    #pricing .color{
+        background-color: #e03a3c;
+        border:1px solid #e03a3c
+    }
+    #pricing #color{
+        background-color:#e03a3c;
+        color:white;
+    }
+    #pricing h3{
+        margin:0px;
+        padding:25px;
+    }
+    #faq{
+        padding:50px 0px;
+        
+    }
+    #faq h1{
+        font-weight: bold;
+        padding-bottom:50px;
+    }
+    #faq a{
+        font-weight:100;
+        font-size:19px;
+    text-decoration: none;
+   color: #343a40;
+
+}
+#faq a:hover{
+    color:#e03a3c;
+}
+   #faq .size{
+font-size:15px;
+   }
+   #faq .fnt5{
+       font-size:17px;
+   }
+   
+    
+    #Team{
+        padding:50px 0px;
+        background-color:#1b1b1b;
+        color:white;
+    }
+    #Team h1{
+        font-weight: bold;
+    }
+    #Team p{
+        margin: 0 0 10px;
+        font-size: 17px;
+        padding: 25px 0px;
+        margin: 0px;
+        font-weight: 500;
+    }
+    #Team h4{
+        padding:20px 0px 0px 15px;
+        font-weight: 700;
+        font-size: 18px;
+        color: #111111;
+    }
+    #Team h6{
+        padding:0px 0px 20px 15px;
+        color:#aaaaaa;
+        font-weight: 400;
+        font-size:13px;
+    }
+    #Team .box{
+        border-radius: 7px;
+        background-color:white;
+    }
+#contact{
+    padding:50px 0px;
+}
+#contact p{
+    font-size: 17px;
+    margin: 0px;
+    padding: 18px 0px;
+}
+#contact h1{
+    font-weight: 700;
+}
+#contact button{
+    border: none;
+    padding: 11px 52px;
+    background-color: #e03a3c;
+    margin: 17px 154px;
+}
+#contact .box-1{
+    box-shadow:
+    0 0 30px rgb(214 215 216 / 60%);
+  
+}
+#contact .red{
+     
+    font-size: 36px;
+    color: #e03a3c;
+ 
+    border: 1px dotted;
+    padding: 5px 18px;
+    
+    position: relative;
+ 
+    top: 25px;
+    left: 247px;
+}
+#contact .address{
+    font-size: 18px;  
+ margin: 0px; 
+ padding: 56px 0px 13px 0px;
+}
+#contact h5{
+    padding-bottom:25px;
+}
+
+#faq .fnt{
+    font-size:20px;
+
+}
+#contact .color{
+    font-size: 36px;
+    color: #e03a3c;
+    border: 1px dotted;
+    padding: 5px 18px;
+    margin-top:25px;
+}
+#contact .box-2{
+    box-shadow:
+    0 0 30px rgb(214 215 216 / 60%);
+    margin:20px 0px;
+    padding:35px 0px 25px 0px;
+}
+#contact #shadow{
+    box-shadow:
+    0 0 30px rgb(214 215 216 / 60%);
+}
+.panel-default {
+     border: none;
+}
+.panel-default>.panel-heading {
+    padding: 20px 0px;
+     background:none; 
+    
+}
+.panel {
+
+   
+    box-shadow: 0 1px 1px rgb(0 0 0 / 8%);
+}

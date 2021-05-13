@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+       
+        .red{
+            border:20px solid red;
+
+        }
+        .yellow{
+            border:20px solid yellow;
+
+        }
+        .blue{
+            border:20px solid blue;
+        }
+        </style>
+   
+
+    <!-- //     function my(){
+    //    var para=document.getElementsByTagName('p')
+    //    for(i=0;i<para.length;i++){
+    //        para[i].style.color="red";para[i].style.fontSize="25px"
+    //    }
+    //   }
+       
+//     function my(){
+//       document.getElementById('im').
+//         src="./src/images/hero-img.png"
+   
+// }
+// function my(){
+//     var a=[20,30,40];
+//   b= document.getElementById('para');
+//  }
+
+// var address=newArray("vinay","kumar");
+// console.log(`${address}`); -->
+
+
+
+</head>
+
+<body>
+  
+
+    <!-- <select id="selected">
+        <option value="vinay">vinay</option>
+        <option value="kumar" >kumar</option>
+        <option value="goud">goud</option>
+    </select>
+    <button onclick="my()">submit</button>
+    <script>
+     function my(){
+         a=document.getElementById('selected')
+         alert(a.options[a.selectedIndex].value)
+     }
+document.g -->
+<!-- 
+<p>hi sir iam vinay kumar</p>
+<p>hi sir iam vinay kumar</p>
+<p>hi sir iam vinay kumar</p>
+<p>hi sir iam vinay kumar</p>
+<p>hi sir iam vinay kumar</p>
+<p id="para">hi sir iam vinay kumar</p>
+
+<button  onclick="my()">submit</button> -->
+
+<!-- <img src="src/images/hero-bg.jpg" onmouseover="my()" id="im" width="800"> -->
+
+<!-- 
+      function myfunction(){
+         var a=[{"name":"vinay","lastname":"kumar"},{"name":"vinay","age":"26"}];
+   document.getElementById('root').value=a.;
+      
+       }
+ 
+    
+      
+        var  b=[{"name":"brinjal"},{"friut":"banana"},{"name":"brinjal"}];
+  var c=b.find(s=>s.name=="brinjal");
+  document.getElementById('p').innerHTML=c.name;
+    -->
+    <div class="box">
+   <div class="red"></div>
+   <div class="blue"></div>
+   <div class="green"></div>
+   <div class="yellow"></div>
+   <div class="gray"></div>  
+</div>
+
+<br/>
+<div class="center"></div>
+<script>
+    const blue = document.querySelector(".blue");
+    const red = document.querySelector(".red");
+    const yellow = document.querySelector(".yellow");
+    const center = document.querySelector(".center");
+    
+    // const show=(selected)=>{
+    //     return window.getComputedStyle(selected).border;
+    //  };
+
+
+    // var output=show(red);
+//     red.addEventListener("click",()=>{
+// center.style.border=output;
+//    });
+
+
+//     const add=(element,color)=>{
+//     return element.addEventListener("mouseenter",()=>{
+// center.style.border=color;
+//    });
+//     };
+//   add(red,show(red));
+//   add(yellow,show(yellow));
+//   add(blue,show(blue));
+
+
+const add = (selected)=>{
+    return window.getComputedStyle(selected).border
+};
+var output=add(red)
+
+red.addEventListener(mouseenter,()=>{
+    center.style.bordercolor=output;
+
+})
+  </script>
+</body>
+</html>
+
+
+
+
